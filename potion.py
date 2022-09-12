@@ -1,1 +1,7 @@
-print(1+1)
+import random
+
+
+potion_health = random.randint(10,100)  
+
+print("Hello, World")
+
